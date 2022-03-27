@@ -110,7 +110,9 @@
 						const b = B[this.sortBy];
 						const dir = this.sortReverse ? 1 : -1;
 
-						if (isNaN(parseInt(a))) {
+						if (!b) {
+							return 999 * dir;
+						} else if (isNaN(parseInt(b))) {
 							return (a < b ? 1 : -1) * dir;
 						} else {
 							return (a - b) * dir;
@@ -122,7 +124,7 @@
 						}
 
 						const val = x[this.filter.key];
-						if (!val) { return false }
+						if (!val) {}
 
 						return val.toString().includes(this.filter.value);
 					})
