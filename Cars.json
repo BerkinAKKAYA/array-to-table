@@ -1,0 +1,96 @@
+[
+	{
+		"name": "Peugeot 208 THP",
+		"year": 2012,
+		"price": 192.000,
+		"horsepower": 156,
+		"engineSize": 1600
+	},
+	{
+		"name": "Toyota Camry",
+		"year": 2008,
+		"price": 190.000,
+		"horsepower": 167,
+		"engineSize": 2400
+	},
+	{
+		"name": "Honda CR-Z GT",
+		"year": 2012,
+		"price": 190.000,
+		"horsepower": 113,
+		"engineSize": 1500
+	},
+	{
+		"name": "Volkswagen Golf GTI",
+		"year": 2009,
+		"price": 190.000,
+		"horsepower": 170,
+		"engineSize": 1400
+	},
+	{
+		"name": "Audi TT",
+		"year": 2000,
+		"price": 189.000,
+		"horsepower": 180,
+		"engineSize": 1800,
+		"extra": "Quattro"
+	},
+	{
+		"name": "Volkswagen Scirocco",
+		"year": 2009,
+		"price": 186.000,
+		"horsepower": 160,
+		"engineSize": 1400
+	},
+	{
+		"name": "BMW 520i",
+		"year": 1997,
+		"price": 185.000,
+		"horsepower": 150,
+		"engineSize": 1991
+	},
+	{
+		"name": "Audi A4 2.5TDI",
+		"year": 2004,
+		"price": 170.000,
+		"horsepower": 180,
+		"engineSize": 2500,
+		"extra": "Quattro"
+	},
+	{
+		"name": "Alfa Romeo 159 JTD",
+		"year": 2007,
+		"price": 170.000,
+		"horsepower": 150,
+		"engineSize": 1900
+	},
+	{
+		"name": "Mitsubishi Lancer",
+		"year": 2011,
+		"price": 150.000,
+		"horsepower": 117,
+		"engineSize": 1600
+	},
+	{
+		"name": "Honda Accord",
+		"year": 2006,
+		"price": 140.000,
+		"horsepower": 140,
+		"engineSize": 2200
+	},
+	{
+		"name": "Peugeot 206 CC",
+		"year": 2004,
+		"price": 108.000,
+		"horsepower": 110,
+		"engineSize": 1600,
+		"extra": "Cabrio"
+	},
+	{
+		"name": "Citroen C2 1.6 VTS",
+		"year": 2007,
+		"price": 105.000,
+		"horsepower": 125,
+		"engineSize": 1600
+	}
+]
